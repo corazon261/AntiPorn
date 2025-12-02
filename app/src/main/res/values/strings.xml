@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AntiPorn</string>
+    <string name="admin_description">Device admin description</string>
+    <string name="admin_label">Device admin label</string>
+</resources>
