@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315892698434",
+    "project_id": "blocker-9bd5b3e0",
+    "storage_bucket": "blocker-9bd5b3e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315892698434:android:52525fba5c6c1f39a6ccdb",
+        "android_client_info": {
+          "package_name": "com.example.antiporn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6LfB-FccmikMBLit-lOQMgdzM8CNuMpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

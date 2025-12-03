@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Anti Porn"
+rootProject.name = "AntiPorn"
 include(":app")
  
